@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\GDLCamp"
+        },
+        {
+            "path": "..\\Jadslog"
+        },
+        {
+            "path": "..\\Javascript"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Javascript"
+    }
+}
