@@ -1,0 +1,17 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     },
+  "devDependencies": {
+  
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge6973/PlatziVideo.git"
+  }
+
+}
